@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "491032838551",
+    "firebase_url": "https://chat-room-78f71.firebaseio.com",
+    "project_id": "chat-room-78f71",
+    "storage_bucket": "chat-room-78f71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491032838551:android:3812f4c3df7fe44a",
+        "android_client_info": {
+          "package_name": "com.example.manmeet.chatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491032838551-brigfb98jbils5illlkotmlbqp7pdsde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manmeet.chatroom",
+            "certificate_hash": "78efa24d265181d3d69a2fc20dba87078c65d12e"
+          }
+        },
+        {
+          "client_id": "491032838551-dkurruehtj17fnmfbfnj3lo10jrcpt4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5xK5VXJXrafC63FAVB6Nb4KJDpa0QPHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491032838551-dkurruehtj17fnmfbfnj3lo10jrcpt4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
